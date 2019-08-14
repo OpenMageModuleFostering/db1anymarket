@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/DB1Anymarket",
+    "type": "magento-module",
+    "license": "MPL",
+    "homepage": "",
+    "description": "Módulo de integração AnyMarket e Magento",
+    "authors": [
+    {
+        "name": "AnyMarket",
+        "email": "dev@anymarket.com.br"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
